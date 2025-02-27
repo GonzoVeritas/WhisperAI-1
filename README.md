@@ -27,7 +27,7 @@ Before you can run it, make sure all the prerequisites are loaded.
 Typically, you'll have items 1-3 already loaded, so just load or update FFMPEG & Whisper...
 ```
 brew install ffmpeg
-pip install -u openai-whisper
+pip install -U openai-whisper
 ```
 Note: Check for updated name on 'openai-whisper'
 
